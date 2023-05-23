@@ -6,6 +6,7 @@
     border-radius: 4px;
     display: flex;
     align-items: center;
+    
 } 
 
 button{
@@ -16,8 +17,9 @@ button{
     width: 20%;
     border: none;
     border-radius: 4px;
-    margin-left: 70%;
+    margin-left: 30%;
     transition: 0.5s;
+    margin-right: 30px;
 }
 
 button:hover{
