@@ -5,7 +5,7 @@ width: 25%;
 
 }
 .locations{
-    border-right: 1px #DDDDDD;
+    border-right: 1px solid #DDDDDD;
     display: grid;
     place-content: center;
     
